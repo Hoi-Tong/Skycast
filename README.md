@@ -1,4 +1,4 @@
-# 🌤️ MCP Weather Server & Client
+# 🌤️ Skycast
 
 A full **Model Context Protocol (MCP)** project containing:
 
@@ -100,3 +100,4 @@ Query: Show me alerts in TX
 ## 📜 License
 
 MIT License (modify as needed)
+
